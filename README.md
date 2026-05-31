@@ -1,5 +1,14 @@
 Hi, I'm Sridar Vijaya Kumar 👋 | Mern Stack Developer 🚀
 
+<p align="center">
+  <img 
+    alt="Coding" 
+    height="350" 
+    width="651"  
+    src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
+  />
+</p>
+
 👨‍💻 About Me
 
 Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building web applications that are fast, responsive, and scalable. I specialize in creating seamless user experiences on the front-end while ensuring robust back-end functionality. My goal is to turn ideas into functional, real-world applications.
