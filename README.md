@@ -6,14 +6,22 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 
 🔭 Projects & Skills
 
-Frontend: JavaScript, HTML5, CSS3, Responsive Web Design
-UI Frameworks: Tailwind CSS, Bootstrap
-Programming Languages: Java (Basics)
-Backend & Frameworks: Flask, Django (Beginner)
-Databases: MongoDB Compass.
-Design Tools: Wireframing, Prototyping
-Tools & Platforms: GitHub, VS Code ,Postman (Basics)
-Soft Skills: Teamwork, Communication, Time Management, Adaptability
+🚀 **Project Skills**
+
+**Front-End Development:** Crafting responsive and user-friendly web interfaces using JavaScript, HTML5, CSS3, and modern UI frameworks like Tailwind CSS and Bootstrap.
+
+**Back-End Development:** Building server-side applications using Flask and Django, with a focus on clean architecture and efficient logic (Beginner level).
+
+**Java Programming:** Understanding core Java concepts and applying them to solve basic programming problems.
+
+**Database Management:** Working with MongoDB Compass to manage and organize application data effectively.
+
+**Design & UI/UX:** Creating wireframes and prototypes to design intuitive and engaging user experiences.
+
+**Tools & Platforms:** Utilizing GitHub for version control, VS Code for development, and Postman for API testing (Basics).
+
+**Soft Skills:** Strong teamwork, communication, time management, and adaptability in collaborative environments.
+
 
 🎯 Let's Build Something Amazing
 
