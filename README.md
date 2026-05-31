@@ -23,6 +23,21 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridar-vk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sridarvijayakumar@gmail.com) 
 
+
+## 👋 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sridar-Vijayakumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridar-vk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sridarvijayakumar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridarvijayakumar@gmail.com)
+
+</div>
+
+
+<div align="center">
+  
 🎯 Let's Build Something Amazing
 
 I’m always excited to collaborate, solve challenging problems, and turn concepts into live applications. Check out my projects, share ideas, or just say hello!
