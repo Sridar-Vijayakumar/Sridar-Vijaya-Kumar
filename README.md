@@ -9,7 +9,7 @@
     alt="Coding" 
     height="350" 
     width="651"  
-    src="https://github.com/DeveshYadav13/DeveshYadav13"
+    src="https://www.google.com/imgres?imgurl=https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif&tbnid=q00qOlex_6sobM&vet=1&imgrefurl=https://github.com/DeveshYadav13/DeveshYadav13&docid=6KF8jZuEoA2upM&w=800&h=600&source=sh/x/im/m1/2&kgs=ba165f5f2fe50550&shem=rimspwouoe,rimspwouohe&utm_source=rimspwouoe,rimspwouohe,sh/x/im/m1/2"
   />
 </p>
 
