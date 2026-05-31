@@ -2,13 +2,13 @@
 
 # 👋 Hey there, I'm **Sridar Vijaya Kumar**
 
-### 🔐 Mern Stack Developer 
+###  👨‍💻 Mern Stack Developer 
 	
 <p align="center">
   <img 
     alt="Coding" 
-    height="350" 
-    width="651"  
+    height="450" 
+    width="700"  
     src=https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif
   />
 </p>
