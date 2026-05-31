@@ -33,6 +33,12 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 
 
 <div align="center">
+
+### 🧮 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vaishnavy_04?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Sridarvijayakumar/)
+<br>
+</div>
+
   
 🎯 Let's Build Something Amazing
 
