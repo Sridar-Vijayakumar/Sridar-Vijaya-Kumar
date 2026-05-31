@@ -20,6 +20,8 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 
 **Soft Skills:** Strong teamwork, communication, time management, and adaptability in collaborative environments.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridar-vk)  
 
 🎯 Let's Build Something Amazing
 
