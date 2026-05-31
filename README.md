@@ -1,4 +1,24 @@
-Hi, I'm Sridar Vijaya Kumar 👋 | Mern Stack Developer 🚀
+<div align="center">
+
+# 👋 Hey there, I'm **Sridar Vijaya Kumar**
+
+### 🔐 Mern Stack Developer 
+	
+<p align="center">
+  <img 
+    alt="Coding" 
+    height="350" 
+    width="651"  
+    src="https://github.com/DeveshYadav13/DeveshYadav13"
+  />
+</p>
+
+<p>
+A passionate Computer Science student from India, focused on building secure, scalable, and user-centric digital experiences.
+</p>
+
+</div>
+
 
 👨‍💻 About Me
 
