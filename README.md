@@ -1,11 +1,6 @@
-<div align="center">
 Hi, I'm Sridar Vijaya Kumar 👋 | Mern Stack Developer 🚀
-</div>
-<div align="center">
-
 
 👨‍💻 About Me
-<div align="center">
 
 Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building web applications that are fast, responsive, and scalable. I specialize in creating seamless user experiences on the front-end while ensuring robust back-end functionality. My goal is to turn ideas into functional, real-world applications.
 
@@ -24,8 +19,6 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 **Tools & Platforms:** Utilizing GitHub for version control, VS Code for development, and Postman for API testing (Basics).
 
 **Soft Skills:** Strong teamwork, communication, time management, and adaptability in collaborative environments.
-</div>
-<div align="center">
 
 ## 👋 Let's Connect
 
@@ -42,13 +35,9 @@ Hi, I’m Sridar Vijaya Kumar, a Mern stack developer passionate about building 
 <div align="center">
   
 🎯 Let's Build Something Amazing
-<div align="center">
 
 I’m always excited to collaborate, solve challenging problems, and turn concepts into live applications. Check out my projects, share ideas, or just say hello!
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-</div>
-<div align="center">
-
 
 
