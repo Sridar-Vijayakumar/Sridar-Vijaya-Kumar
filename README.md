@@ -9,7 +9,7 @@
     alt="Coding" 
     height="350" 
     width="651"  
-    src=https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif"
+    src=https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif
   />
 </p>
 
