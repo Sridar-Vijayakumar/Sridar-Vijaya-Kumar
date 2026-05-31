@@ -13,9 +13,6 @@
   />
 </p>
 
-<p>
-A passionate Computer Science student from India, focused on building secure, scalable, and user-centric digital experiences.
-</p>
 
 </div>
 
