@@ -5,7 +5,7 @@
 ###  👨‍💻 Mern Stack Developer | JavaScript | React.js | GitHub Contributor
 	
 <p align="center">
-  <img 
+  <img   
     alt="Coding" 
     height="450" 
     width="650"  
